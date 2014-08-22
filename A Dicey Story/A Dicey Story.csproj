@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5C228338-F72A-4933-A1E1-E531E4CEE19A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ADiceyStory</RootNamespace>
+    <AssemblyName>A Dicey Story</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dice.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LevelClass, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\LevelClass\LevelClass\bin\Debug\LevelClass.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBattle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBattle.Designer.cs">
+      <DependentUpon>FormBattle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCharacterSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCharacterSelection.Designer.cs">
+      <DependentUpon>FormCharacterSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEvent.Designer.cs">
+      <DependentUpon>FormEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGameBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameBoard.Designer.cs">
+      <DependentUpon>FormGameBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGameOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameOptions.Designer.cs">
+      <DependentUpon>FormGameOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStory.Designer.cs">
+      <DependentUpon>FormStory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTitleScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTitleScreen.Designer.cs">
+      <DependentUpon>FormTitleScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWinner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWinner.Designer.cs">
+      <DependentUpon>FormWinner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameBoard.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBattle.resx">
+      <DependentUpon>FormBattle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCharacterSelection.resx">
+      <DependentUpon>FormCharacterSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEvent.resx">
+      <DependentUpon>FormEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameBoard.resx">
+      <DependentUpon>FormGameBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGameOptions.resx">
+      <DependentUpon>FormGameOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStory.resx">
+      <DependentUpon>FormStory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTitleScreen.resx">
+      <DependentUpon>FormTitleScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWinner.resx">
+      <DependentUpon>FormWinner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dice.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,180 @@
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.dll
+C:\Users\CharlesQi\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.dll
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+F:\Data Game\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+F:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+F:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+F:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.dll
+F:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+J:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+J:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+J:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+E:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+E:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+E:\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sonia\Desktop\Data Game\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\sonia\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.dll
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.dll
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\bin\Debug\SurvivalStory.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\bin\Debug\LevelClass.dll
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\bin\Debug\LevelClass.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
+C:\Users\CharlesQi\Desktop\SurvivalStory2\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
+C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalStory.csproj.ResolveComReference.cache
+C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalStory.exe
+C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalStory.pdb
