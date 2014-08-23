@@ -1,98 +1,8 @@
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\bin\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\bin\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\bin\Debug\LevelClass.dll
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\bin\Debug\LevelClass.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\SurvivalStory\obj\x86\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.dll
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.pdb
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\CharlesQi\Desktop\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.exe
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.dll
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.pdb
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\CharlesQi\Desktop\Others\Data Game1\A Dicey Story\A Dicey Story\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.exe
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.pdb
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csprojResolveAssemblyReference.cache
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
-C:\Users\Jaden\Desktop\Programming Projects\Major Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.GenerateResource.Cache
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.exe
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\bin\Debug\LevelClass.pdb
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csprojResolveAssemblyReference.cache
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameBoard.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormGameOptions.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormStory.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
-C:\Users\Jaden\Documents\GitHub\Projects\A Dicey Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.GenerateResource.Cache
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\A Dicey Story.exe
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\LevelClass.pdb
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csprojResolveAssemblyReference.cache
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.ResolveComReference.cache
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormBattle.resources
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormCharacterSelection.resources
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormEvent.resources
@@ -103,6 +13,5 @@ C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\Surviv
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\SurvivalOfTheLuckiest.FormWinner.resources
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\ADiceyStory.Properties.Resources.resources
 C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.csproj.GenerateResource.Cache
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\A Dicey Story.exe
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\A Dicey Story.pdb
-C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\bin\Debug\LevelClass.pdb
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.exe
+C:\Users\Jaden\Documents\GitHub\A-Dicey-Story\A Dicey Story\obj\x86\Debug\A Dicey Story.pdb

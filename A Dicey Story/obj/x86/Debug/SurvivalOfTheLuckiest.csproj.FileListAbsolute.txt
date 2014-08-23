@@ -1,9 +1,0 @@
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\bin\Debug\SurvivalOfTheLuckiest.exe
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\bin\Debug\SurvivalOfTheLuckiest.pdb
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\SurvivalOfTheLuckiest.FormTitleScreen.resources
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\SurvivalOfTheLuckiest.Properties.Resources.resources
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\SurvivalOfTheLuckiest.exe
-C:\Users\CharlesQi\AppData\Local\Temporary Projects\SurvivalOfTheLuckiest\obj\x86\Debug\SurvivalOfTheLuckiest.pdb
