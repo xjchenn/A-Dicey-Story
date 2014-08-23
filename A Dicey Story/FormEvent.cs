@@ -105,7 +105,7 @@ namespace SurvivalOfTheLuckiest
             else if (i == 12)
             {
                 ImagePath = "WildBear.png";
-                eventmessage = "You were chased out of the area by a wild bear, you go back 2 spaces";
+                eventmessage = "You were chased out of the area by a wild bear, you are pushed away 2 spaces";
             }
             else if (i == 13)
             {
